@@ -1,5 +1,5 @@
 # openclass-rules
-This is the custom rules for openclash 
+This is the custom rules for openclash(openclash自定义规则)
 
 
 Usage：
